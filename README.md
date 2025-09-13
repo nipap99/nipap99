@@ -18,6 +18,7 @@
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
-
+<a href="https://www.microsoft.com/microsoft-365/access"><img src="images.jpg" alt="microsoft access" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/microsoft-365/excel"> <img src="excel.png" alt="microsoft excel" width="40" height="40"/></a>
 
 
