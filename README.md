@@ -1,6 +1,6 @@
 # Hi 👋 my name is Nikanoras
 
-### I write about [Danish companies | data analysis | Financial metrics]
+### I write about [Danish companies | Data analysis | Financial metrics]
 
 
 - 🔭 I write about AI, Financial Metrics and Data Analytics on LinkedIn
@@ -18,3 +18,6 @@
 <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
+
+
+
